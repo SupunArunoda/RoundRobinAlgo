@@ -1,0 +1,5 @@
+Total Processes: 11
+Maximum Length of Ready Processes List: 1
+Total Waiting Time: 16 ticks
+Average Waiting Time: 1.4545455 ticks
+Average Response Time: 8.272727 ticks
